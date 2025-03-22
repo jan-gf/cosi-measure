@@ -2,22 +2,22 @@
 
 ![COSI Measure](res/img/setup-overview.jpg)
 
-<!-- TOC -->
-
-- [COSI Measure](#cosi-measure)
-    - [Description](#description)
-    - [System specifications](#system-specifications)
-    - [Versions and Branches](#versions-and-branches)
-    - [Contacts](#contacts)
-        - [Known builds](#known-builds)
-    - [Contributors alphabetical order](#contributors-alphabetical-order)
-    - [Publications](#publications)
-    - [Acknowledgments](#acknowledgments)
-    - [License and Liability](#license-and-liability)
-
-<!-- /TOC -->n
-
 COSI Measure is an open-source, multipurpose 3-axis robotic system designed for operation in large volumes. It can be equipped with various field mapping probes for static or dynamic measurements, including electromagnetic and temperature sensing. Experimental evaluations have confirmed its submillimeter accuracy, reproducibility, and minimal backlash. With potential upgrades, it can be adapted for other applications requiring precise, repeatable submillimeter movements.
+
+
+## Table of Contents
+
+- [System specifications](#system-specifications)
+- [Versions and Branches](#versions-and-branches)
+- [Rebuild your own COSI Measure](#rebuild-your-own-cosi-measure)
+- [Contacts](#contacts)
+    - [Known builds](#known-builds)
+- [Contributors alphabetical order](#contributors-alphabetical-order)
+- [Publications](#publications)
+- [Acknowledgments](#acknowledgments)
+- [License and Liability](#license-and-liability)
+
+
 
 ## System specifications
 
@@ -44,6 +44,12 @@ The latest stable release is [v2.0](https://github.com/opensourceimaging/cosi-me
 For older, please check out the [releases overview](https://github.com/opensourceimaging/cosi-measure/releases/).
 
 The changes between versions are summarized in the respective release notes and documented in the [CHANGELOG](CHANGELOG.md) document.
+
+## Rebuild your own COSI Measure
+
+How to build the hardware: [doc/README.md](doc/README.md)
+
+We propose to use the software in this repository: 
 
 ## Contacts
 
@@ -82,4 +88,4 @@ The project (21NRM05) has received funding from the European Partnership on Metr
 
 ## License and Liability
 
-The content in this repository is licensed under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal, please see [LICENSE](LICENSE) for details and also check the [DISCLAIMER](DISCLAIMER.pdf)
+The content in this repository is licensed under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal, please see [LICENSE](LICENSE) for details and also check the [DISCLAIMER](DISCLAIMER.pdf).
