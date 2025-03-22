@@ -16,9 +16,7 @@ __Hardware:__
 
 __Software:__
 
-- Changed installation instructions for the software: Moonraker instead of Octoprint
-- Added virtual sensors to printer.cfg
-- Added option for Moonraker control to GUI program
+- Moved to another repository
 
 __Documentation:__
 
