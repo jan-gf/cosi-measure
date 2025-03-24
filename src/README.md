@@ -16,10 +16,6 @@ The enclosure design contains the BoM and design files of electronic cabinet com
 
 Contains designs for the motors and sensors.
 
-## Software
-
-The software design contains the configuration files for the Klipper firmware.
-
 ## Accessories
 
 Contains designs for accessories like the field mapping probe.
